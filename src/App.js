@@ -1,10 +1,16 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+import Contaner from './components/Contaner'
 
-function Navbar() {
+
+
+function App() {
   return (
-    <div><Navbar/></div>
+    <div> 
+      <Contaner/>
+      
+     </div>
+
   )
 }
 
-export default Navbar
+export default App
