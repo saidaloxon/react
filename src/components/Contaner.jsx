@@ -12,6 +12,7 @@ const data =[
 {id:5, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
 {id:6, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
 {id:6, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
+{id:6, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
 {id:7, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
 {id:8, title: 'banan' , info: 'yeyish kerak', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xBnRRsnpTltOvwQjrtx4-1xGRiFR85ewww&usqp=CAU'},
 ]
